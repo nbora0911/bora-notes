@@ -86,8 +86,8 @@ A great company is defined by its ability to generate cash flow in the future.
 - Being a Salesman: If there is not money, it doesn't work. So, not matter how big genuises you have in your company or the product, you need to sell it.
 - Sales is Hidden: Salesman's priority is persuasion, not sincerity
 - Two metrics for effection distribution: CLV < CAC
-    - Customer Lifetime Value (CLV)
-    - Customer Acquisition Cost (CAC)
+    1. Customer Lifetime Value (CLV)
+    2. Customer Acquisition Cost (CAC)
 - Power law of Distribution: If you can get one channel of distribution working, you have a great business. Try many but don't nail a single one -> you are done!
 
 ##### Chapter 12: Man and machine!
@@ -98,21 +98,21 @@ A great company is defined by its ability to generate cash flow in the future.
 - Failure of cleantech startup, and why Tesla succeeded? 
 - Seven Question every business must answer: 
     1. The Engineering Question:
-       Can you create beakthrough technology instead of incremental improvements?
+       Can you create beakthrough technology instead of incremental improvements? -> atleast 10X improvement
+       
     2. The Timing Question:
-        Is now the right time to start your particular business?
+        Is now the right time to start your particular business? ->
     3. The Monopoly Question:
-        Are you starting with a big share of a small market?
+        Are you starting with a big share of a small market? -> Define your market well > can you monopolize?
     4. The People Question:
-        Do you have the right team?
+        Do you have the right team? -> Apparently, never invest in a CEO that wears a suit? Really?
     5. The Distribution Question:
         Do you have a way to not only create but deliver your product?
     6. The Durability Question:
-        Will the market be defensible 10 and 20 years into the future?
+        Will the market be defensible 10 and 20 years into the future? -> Every entreprenuer should plan to be the last mover in her particular market. 
     7. The Secret Question:
         Have you identified a unique opportunity that others don't see?
        
-
-
-
-Page 110
+##### Chapter 14: Founder's paradox
+- Extreme personalities
+- Founders are important not because they are the only ones who work has value, but rather a great founder can bring out the best work from everybody at their company. 
