@@ -35,10 +35,10 @@ A great company is defined by its ability to generate cash flow in the future.
     - you must study the endgame before everything else. Make the last biggest development in a specific market and then enjoy years of monopoly profits
     
 
-###### Chapter 6 - You are not a lottery ticket:
+##### Chapter 6 - You are not a lottery ticket:
 - Longer term planning - intelligent design - you are not a lottery ticket
 
-###### Chapter 7 - Follow the Money:
+##### Chapter 7 - Follow the Money:
 - Money makes money
 - Pareto Principle: 80-20 rule, 20% of the peapods in the garden produced 80% of the peas
 - Power Law: Small handful on companiesvradically outperform all others
@@ -55,7 +55,7 @@ A great company is defined by its ability to generate cash flow in the future.
      2. One distritution strategy usually dominates all others
      3. Time and decision making follow a power law: Some moments are far more important than others - Remember Tennis
      4. Don't forget the power law
- ###### Chapter 8: Secrets
+ ##### Chapter 8: Secrets
  
  - Why do we not believe in secrets anymore? 
      1. Incrementalism
@@ -65,7 +65,54 @@ A great company is defined by its ability to generate cash flow in the future.
 - How to find secrets?
      Two types of secrets: nature and people. 
 
-###### Chapter 9: Foundations:
+##### Chapter 9: Foundations:
 
-Thiel's Law: a start upmessed up at its foundation cannot be fixed 
+- Thiel's Law: a start upmessed up at its foundation cannot be fixed 
+- Size of the board: If you want to want an effective board, keep it small - (3-5)
+- In no case should a CEO of an early stage, venture-backed startup recieve more than $150k per year in salary. Set the tone for the rest of the company
+- Any kind of cash is more about the present than the future. So, give equity over cash.
+- Opennes to invention
+
+##### Chapter 10: Mechanics of a Mafia:
+- Why should a recruit join your company? General distinguishing answers
+    - Answers about your company's mission
+    - Answers about your team
+- Silicon Valley Hoodies: 
+    - From the outside, everyone in your company should be different in the same way.
+    - From the inside, every individual should be sharply distinguished by their work.
+- Eliminating competition makes it easier to build the kind of friendships that transcends professionalism
+
+##### Chapter 11: If you build it, will they come?
+- Being a Salesman: If there is not money, it doesn't work. So, not matter how big genuises you have in your company or the product, you need to sell it.
+- Sales is Hidden: Salesman's priority is persuasion, not sincerity
+- Two metrics for effection distribution: CLV < CAC
+    - Customer Lifetime Value (CLV)
+    - Customer Acquisition Cost (CAC)
+- Power law of Distribution: If you can get one channel of distribution working, you have a great business. Try many but don't nail a single one -> you are done!
+
+##### Chapter 12: Man and machine!
+- AI will not leave us jobless. 
+- Tech is complementary to humans.. it aides us,not replaces us.
+
+##### Chapter 13: Seeing Green
+- Failure of cleantech startup, and why Tesla succeeded? 
+- Seven Question every business must answer: 
+    1. The Engineering Question:
+       Can you create beakthrough technology instead of incremental improvements?
+    2. The Timing Question:
+        Is now the right time to start your particular business?
+    3. The Monopoly Question:
+        Are you starting with a big share of a small market?
+    4. The People Question:
+        Do you have the right team?
+    5. The Distribution Question:
+        Do you have a way to not only create but deliver your product?
+    6. The Durability Question:
+        Will the market be defensible 10 and 20 years into the future?
+    7. The Secret Question:
+        Have you identified a unique opportunity that others don't see?
+       
+
+
+
 Page 110
