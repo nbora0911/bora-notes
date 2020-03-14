@@ -1,0 +1,5 @@
+### CS224N:
+
+- Word2Vec: http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+- Negative Sampling: Efficient Estimation of Word Representations in Vector Space :https://arxiv.org/pdf/1301.3781.pdf
+- Improving Word Representations Via Global Context And Multiple Word Prototypes (Huang et al, 2012) 
