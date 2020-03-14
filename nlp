@@ -6,7 +6,9 @@
 3. Improving Word Representations Via Global Context And Multiple Word Prototypes (Huang et al, 2012)
 4. http://nlp.stanford.edu/pubs/glove.pdf
 5. Improving Distributional Similarity with Lessons Learned from Word Embeddings: http://www.aclweb.org/anthology/Q15-1016
+We reveal that much of the performance gains of word embeddings are due to certain system design choices and hyperparameter optimizations, rather than the embedding algorithms themselves. Furthermore,we show that these modifications can be transferred to traditional distributional models, yielding similar gains. In contrastto prior reports, we observe mostly local or insignificant performance differencesbetween the methods, with no global advantage to any single approach over the others.
 6. Evaluation methods for unsupervised word embeddings: http://www.aclweb.org/anthology/D15-1036
+
 7. A Latent Variable Model Approach to PMI-based Word Embeddings: http://aclweb.org/anthology/Q16-1028
 8. Linear Algebraic Structure of Word Senses, with Applications to Polysemy: https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320
 9. On the Dimensionality of Word Embedding : https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf
