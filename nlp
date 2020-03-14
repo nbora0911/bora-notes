@@ -7,6 +7,25 @@
 4. http://nlp.stanford.edu/pubs/glove.pdf
 5. Improving Distributional Similarity with Lessons Learned from Word Embeddings: http://www.aclweb.org/anthology/Q15-1016
 We reveal that much of the performance gains of word embeddings are due to certain system design choices and hyperparameter optimizations, rather than the embedding algorithms themselves. Furthermore,we show that these modifications can be transferred to traditional distributional models, yielding similar gains. In contrastto prior reports, we observe mostly local or insignificant performance differencesbetween the methods, with no global advantage to any single approach over the others.
+7 Practical Recommendations
+It is generally advisable to tune all hyperparameters, as well as algorithm-specific hyperparameters, for the task at hand. However, this may be
+computationally expensive. We thus provide some
+“rules of thumb”, which we found to work well in
+our setting:
+• Always use context distribution smoothing
+(cds = 0.75) to modify PMI, as described in
+Section 3.2. It consistently improves performance,
+and is applicable to PPMI, SVD, and SGNS.
+• Do not use SVD “correctly” (eig = 1). Instead,
+use one of the symmetric variants (Section 3.3).
+• SGNS is a robust baseline. While it might not be
+the best method for every task, it does not significantly underperform in any scenario. Moreover,
+SGNS is the fastest method to train, and cheapest
+(by far) in terms of disk space and memory consumption.
+• With SGNS, prefer many negative samples.
+• for both SGNS and GloVe, it is worthwhile to experiment with the ~w +~c variant, which is cheap to
+apply (does not require retraining) and can result
+in substantial gains (as well as substantial losses).
 6. Evaluation methods for unsupervised word embeddings: http://www.aclweb.org/anthology/D15-1036
 
 7. A Latent Variable Model Approach to PMI-based Word Embeddings: http://aclweb.org/anthology/Q16-1028
