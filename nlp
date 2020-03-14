@@ -31,6 +31,15 @@ in substantial gains (as well as substantial losses).
 7. A Latent Variable Model Approach to PMI-based Word Embeddings: http://aclweb.org/anthology/Q16-1028
 8. Linear Algebraic Structure of Word Senses, with Applications to Polysemy: https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320
 9. On the Dimensionality of Word Embedding : https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf
+In this regard, we outline a few major contributions of our paper:
+1. We introduce the PIP loss, a novel metric on the dissimilarity between word embeddings;
+2. We develop a mathematical framework that reveals a fundamental bias-variance trade-off
+in dimensionality selection. We explain the existence of an optimal dimensionality, a phenomenon commonly observed but lacked explanations;
+3. We quantify the robustness of embedding algorithms using the exponent parameter α, and
+establish that many widely used embedding algorithms, including skip-gram and GloVe,
+are robust to over-fitting;
+4. We propose a mathematically rigorous answer to the open problem of dimensionality selection by minimizing the PIP loss. We perform this procedure and cross-validate the results
+with grid search for LSA, skip-gram Word2Vec and GloVe on an English corpus.
 10. fasttext
 
 
