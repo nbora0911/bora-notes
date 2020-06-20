@@ -30,6 +30,3 @@ Random observations: Notes:
 - Stereotype and identity threat increase vigilance toward possible threat and bad consequences in the social environment, which diverts attention and mental capacity away from the task at hand, which worsens performance and mental capacity away from the task at hand, which worsens performance and general functioning, all of which further exacerbates anxiety, which further intensifies the vigilance for threat and the diversion of attention. A full scale vicious cucle ensues, with great cost to performance and general functioning.
 - Stereotype threat > more stress > greater rate of hypertension in poorer populations including blacks????
 - Opportunity travels along the synapses for social networks. 
-
-
-
