@@ -1,4 +1,5 @@
-** Whistling Vivaldi - How stereotypes affects us and what we can do**
+# Whistling Vivaldi - How stereotypes affects us and what we can do
+
 We are all stereotyped in some way or the other. It is not just about the minorities but everyone. However, some groups face is more than others. This is possibly why focusing on minorities first can be a 80/20 approach. 
 
 ### What is the problem exactly?
@@ -22,7 +23,7 @@ Positivity fosters positivity.. we often try to fix our weaknesses(opportunities
 5. By helping students develop a narrative about the setting that explains their frustrations while projecting positive engagement and success in the setting, you can greatly improve their sense of belonging and achievement - which if done at a critical time could redirect the course of their lives
  
 
-Random observations: Notes:
+### Random observations: Notes:
 - Ask for help, collaborate, what are you talking about at a happy hour, in a relaxed conversation: Page 103: Saw black students - in an effort to succeed where their ability are negatively stereotyped, following a strategy of intense, isolated effort, a strategy that often set them up for defeats and discouragements. They were trying hard, they were trying to do it all by themselves, in a class where other people were working more happily and efficiently together, pooling their intellectual success. : Over-efforting
 - Analogy is the best route to empathatic insight
 - You must care about the performance in question to get affected by the stereotype threat. -> Many times
