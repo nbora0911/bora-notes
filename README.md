@@ -6,3 +6,5 @@ notes about stuff worth noting down
 1. Rafa
 2. Zero to One
 3. The Metamorphosis
+4. A random walk down wall street (not completed yet)
+5. Whistling Vivaldi
