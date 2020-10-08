@@ -6,5 +6,8 @@ notes about stuff worth noting down
 1. Rafa
 2. Zero to One
 3. The Metamorphosis
-4. A random walk down wall street (not completed yet)
+4. A random walk down wall street WIP
 5. Whistling Vivaldi
+6. Atomic Habits
+7. Flow WIP
+8. Her Own Words WIP
