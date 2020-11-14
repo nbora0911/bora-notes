@@ -11,3 +11,6 @@ notes about stuff worth noting down
 6. Atomic Habits
 7. Flow 
 8. Her Own Words WIP
+9. And Then there were none WIP
+10. Designing Data Intensive Applications WIP
+
