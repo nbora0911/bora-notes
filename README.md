@@ -9,5 +9,5 @@ notes about stuff worth noting down
 4. A random walk down wall street WIP
 5. Whistling Vivaldi
 6. Atomic Habits
-7. Flow WIP
+7. Flow 
 8. Her Own Words WIP
