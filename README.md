@@ -4,16 +4,18 @@ notes about stuff worth noting down
 
 # Books 2020
 1. Rafa
-2. Zero to One
-3. The Metamorphosis
-4. A random walk down wall street WIP
-5. Whistling Vivaldi
-6. Atomic Habits
-7. Flow 
-8. Her Own Words WIP
-9. And Then there were none 
-10. Designing Data Intensive Applications WIP
-11. The Screwtape Letters
-12. Between the world and me WIP
+1. Zero to One
+1. The Metamorphosis
+1. Whistling Vivaldi
+1. Atomic Habits
+1. Flow 
+1. And then there were none 
+1. The Screwtape Letters
+1. Between the world and me 
+1. Animal Farm
+1. Hillbilly Elegy: A Memoir of a Family and Culture in Crisis WIP
+1. A random walk down wall street WIP
+1. Her Own Words WIP
+1. Designing Data Intensive Applications WIP
 
 
