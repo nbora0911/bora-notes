@@ -14,7 +14,7 @@ notes about stuff worth noting down
 1. Between the world and me 
 1. Animal Farm
 1. Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
-1. I Feel Bad About My Neck: And Other Thoughts on Being a Woman WIP
+1. I Feel Bad About My Neck: And Other Thoughts on Being a Woman
 1. Data Feminism WIP
 1. A random walk down wall street WIP
 1. Her Own Words WIP
