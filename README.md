@@ -19,5 +19,6 @@ notes about stuff worth noting down
 1. A random walk down wall street WIP
 1. Her Own Words WIP
 1. Designing Data Intensive Applications WIP
+1. Elm and the Big Hoom
 
 
