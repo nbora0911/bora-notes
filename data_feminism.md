@@ -21,10 +21,15 @@ Example Story: Serena William's pregenancy
 
 
 ### Chapter 3: Elevate Emotion and Embodiement
-Inducing emotion using data visualization
-Narrative Maps
+- Inducing emotion using data visualization
+- Narrative Maps
+- NYT unemployment map
+- Strong objectivity/ standpoint theory/ positionality
 
-
+Disclosing your subject position(s) is an important feminist strategy for being transparent about the limits of your—or anyone’s—knowledge claims. 
+ - Data Visceralization
+ 
+ 
 ### Companies mentioned in this book:
 - Our Data Bodies Project
 - Local Lotto Project
