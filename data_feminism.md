@@ -46,7 +46,7 @@ Principle: Rethink Binaries and Hierarchies
 - Our Data Bodies Project
 - Local Lotto Project
 - Periscopic
-- 
+- Colored Conventions Project 
 
 ### Books
 - The Women’s Atlas 
