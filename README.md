@@ -2,6 +2,11 @@
 notes about stuff worth noting down
 
 
+# Books 2021
+1. Erotic Stories for Punjabi Widows
+1. My Own Words
+1. Being Mortal
+
 # Books 2020
 1. Rafa
 1. Zero to One
@@ -17,8 +22,7 @@ notes about stuff worth noting down
 1. I Feel Bad About My Neck: And Other Thoughts on Being a Woman
 1. Data Feminism WIP
 1. A random walk down wall street WIP
-1. Her Own Words WIP
 1. Designing Data Intensive Applications WIP
-1. Elm and the Big Hoom
+1. Elm and the Big Hoom WIP
 
 
