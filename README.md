@@ -6,6 +6,8 @@ notes about stuff worth noting down
 1. Erotic Stories for Punjabi Widows
 1. My Own Words
 1. Being Mortal
+1. Heartburn
+1. Decisive - Heath
 
 # Books 2020
 1. Rafa
