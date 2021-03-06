@@ -58,6 +58,10 @@ Ooch
   - Executives: To the extent we can predict the future, we can control it.
   - Entrepreneurs: To the extent that we can control the future, we do not need to predict it. - folks favor testing.
 - Ooching is best for situations where we genuinely need more information and not recommended for cases that require full commitment. 
-- 
+
+#### Attain Distance before deciding:
+#### Prepare to be wrong:
+
+
 Random: In financial institutions, first line/ second line inherently act to fight against confirmation bias -> reasons why they probably do well. They have to do it because of regulations. In non-financial institution, one could do this by having teams review other teams work. This is very similar to within a team - PR reviews. This may need to be top-down priority
 
