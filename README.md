@@ -8,6 +8,9 @@ notes about stuff worth noting down
 1. Being Mortal
 1. Heartburn
 1. Decisive - Heath
+1. How to Be Miserable: 40 Strategies You Already Use
+1. Sapiens: A Brief History of Humankind [WIP]
+1. Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex [WIP]
 
 # Books 2020
 1. Rafa
