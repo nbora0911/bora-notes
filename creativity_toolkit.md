@@ -1,0 +1,23 @@
+From Jordan Fischer:
+
+- Making space for creativity is the first step
+  - Reflection; journaling; documenting consistently
+    - 30 mins at the end of each workday
+    - Friday afternoons for focus
+- Thinking further out | Imagine a world Xyrs from now.. 
+  - premorterm
+- Mashing things up; combining ideas from different fields
+- Flare and focus
+  - do not judge yourself when you flare; absolutely no constraints
+- What would _____ do?
+    - replace blank with people, companies, competitors you admire.
+    - if you were taking up this job from someone else, what would you do?
+- Bad ideation
+  - what would be a horrible idea?
+      - ask why is this so bad?
+        - then fix a little bit of badness to get to a good idea
+- Five E's for innovation | thinking through the time of a project or experience
+    - storyboarding
+    - map out the process
+    - ask what's not great
+    - what's the highest point of leverage
