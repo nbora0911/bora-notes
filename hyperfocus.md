@@ -1,6 +1,7 @@
 ## Scatterfocus 
 
 - Mind wandering
+- Collecting and connecting dots
 - It lets one
   -  set intentions and plan for the future
   -  lets you recharge
@@ -41,5 +42,10 @@ Three types of scatter focus
 - For every hour of sleep you miss, you lose two hours of productivity the next day. // have a night time ritual to ensure you go to bed in time everyday
 
 - Connecting dots
-  - 
+  - The better you remember a complex problem, the greater your odds of coming up with a creative solution
+  - The richer the enviornment, and the richer our experiences, the more insights we're able to unearth. 
+  1. Scatter your attention in a richer environment // rich environment = constantly encountering new people, ideas, and insights // deliberately expose yourself to new cues. 
+  2. Write out the problems you are trying to crack.
+  3. 
+  4. 
   
