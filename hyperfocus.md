@@ -45,7 +45,23 @@ Three types of scatter focus
   - The better you remember a complex problem, the greater your odds of coming up with a creative solution
   - The richer the enviornment, and the richer our experiences, the more insights we're able to unearth. 
   1. Scatter your attention in a richer environment // rich environment = constantly encountering new people, ideas, and insights // deliberately expose yourself to new cues. 
-  2. Write out the problems you are trying to crack.
-  3. 
-  4. 
+  2. Write out the problems you are trying to crack
+     - Regularly reviewing these problems and the document itself kept the project fresh in my mind.
+     - Make an outline of how you will solve a problem // writing a thesis / remodeling stuff// getting a new roommate etc
+     - Write down three next-day intentions at the end of the workday ;; and the largest problems you are in the middle of processing
+     - Write down which is the first problem you are going to solve tomorrow and how you are going to do it.. and next day will start with a productive action
+  3. Sleep on a problem
+     - never go to sleep without a request on your mind
+  4. Take a step back
+     - Purposefully delaying creative decisions can help you connect dots... Finish your work before the deadline but let it marinate in your head.
+  5. Intentionally leave tasks unfinished 
+  6. Consume more valuable dots
+
+- Collecting dots
+  - We are what we pay attention to
+  - Valuable dots are both useful and entertaining; useful dots stay relevant for a long time; they are actionable; related to what you have consumed beforehand or completely unrelated; do you think your life will be different knowning this piece of information?
+  1. Consume things you care about, especially when few others do. 
+     - Double down on developing skills and knowlegde that you find entertaining.. and in the medium you prefer
+  2. 
+  
   
