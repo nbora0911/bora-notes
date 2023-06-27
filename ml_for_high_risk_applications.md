@@ -13,8 +13,18 @@ Whichever risk controls an organization implements, they’ll need to be paired 
 ### AI incidents
 ### Cultural Competencies for ML Risk Management
 - Organizational Accountability
+    - If no one's job is at stake when an ML system fails, gets attacked, or is abused for nefarious purposes, then it's entirely possible that no one in that organization really cares about ML safety and performances.In financial institutions, this responsibility is taken by a "Model Owner". In MRM, this involves accountable executibves and several teams that are responsible for the safety and performance of modeds and ML safety.
+    - Key tenents that form cultural backbone for MRM
+      - Written policies and procedures
+      - Effective Challenge
+      - Accountable leadership - if you boss really cares about ML system safety and performance, everyone cares about it. - similar to how Walmart's CEO in 2000s cared about sustainability; aligned it with org's core values; then everyone started caring about it
+      - Incentives - Aligning timeline, performance evaluation, and pay incentives to team function helps solidify a culture of responsible ML and risk mitigation
 - Culture of Effective Challenge
+    - Actively challenging and questioning steps taken throughout the development of ML systems.
+    - Structure helps here - Weekly meetings where current design thinkinh is questioned and alternative design choices are seriously considered. One way of doing it is to have decision matrix - rows are considerations for a decision and columns are options. 
 - Diverse and Experienced Teams
+    - Bottom line - have a domain expert in your team. I have felt the advantage of having a domain expert in my DS projects - example - politics
+    - Generalist DS often lack the experience necessary to deal with domain-specific data and results. Misunderstand the meaning of input data and output results is a recipe for disaster that can lead to AI incidents when a system is deployed. 
 - Drinking your own Champagne
 - Moving fast and breaking things
 ###  Organizations Processes for ML Risk Management
