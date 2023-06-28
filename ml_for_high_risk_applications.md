@@ -26,10 +26,22 @@ Whichever risk controls an organization implements, they’ll need to be paired 
     - Bottom line - have a domain expert in your team. I have felt the advantage of having a domain expert in my DS projects - example - politics
     - Generalist DS often lack the experience necessary to deal with domain-specific data and results. Misunderstand the meaning of input data and output results is a recipe for disaster that can lead to AI incidents when a system is deployed. 
 - Drinking your own Champagne
+    - I used this in Innovation Challenge! And I really this is the test of how much you trust your own product.
+    - Also known as eating our own dog food.! - using our own software or products inside of our own organization.
+    - In other words, if we're not comfortable using a system on ourselves or in our own organization, then we probably shouldn't deploy that system.
+    - Few other things to consider
+        - the carbon footprint of ML models
+        - the possibility that an ML system could damage the environment by causing an AI incident. 
 - Moving fast and breaking things
+- 
 ###  Organizations Processes for ML Risk Management
-- Forecasting Failure Modes
-  - Known past failures
+- Forecasting Failure Modes: idea is to think through, document, and attempt to mitigate foreseeable failure models for ML systems. 
+  - Known past failures -
+        -  [“Preventing Repeated Real World AI Failures by Cataloging Inci‐ dents: The AI Incident Database"](https://arxiv.org/pdf/2011.08512.pdf)
+        - one the most efficient ways to mitigate potential AI incidents in our ML systems is to compare our system design to past failed designs.
+        - TODO | explore |  - https://incidentdatabase.ai/
+        - TODO | blog | [“Overcoming Failures of Imagination in AI Infused System Development and Deployment"](https://arxiv.org/pdf/2011.13416.pdf)
+        - It’s also possible that in performing the due diligence of researching and conceptualizing ML failures, we find that our design or system must be completely reworked. If this is the case, take comfort that a delay in system implementation or deployment is likely less costly than the h
 - Model Risk Management Processes
   - Risk Tiering 
   - Model Documentation
