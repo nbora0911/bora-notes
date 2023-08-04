@@ -39,4 +39,4 @@
 - don't censor yourself
 - destroy your morning pages if you are worried about privacy
 - allow room for mistakes // it is okay if you miss a day or so
-- 
+- Use writing prompts - https://www.masterclass.com/articles/thought-provoking-journal-prompts-from-bestselling-authors
