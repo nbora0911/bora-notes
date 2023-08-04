@@ -1,4 +1,4 @@
-From Jordan Fischer:
+## From Jordan Fischer:
 
 - Making space for creativity is the first step
   - Reflection; journaling; documenting consistently
@@ -21,3 +21,22 @@ From Jordan Fischer:
     - map out the process
     - ask what's not great
     - what's the highest point of leverage
+
+## From Tanya/ Morning Pages
+- Activity is to write down 3 pages every morning. long form.
+- Takes between 20 - 40 mins. So, get up earlier than usual. Make it a morning routine
+- Do it before you check your phone, internet, news, or anything.
+- Make it a ritual // make it exciting // have coffee? right after shower. simple, easy to do, calming
+- Buy nice supplies. A good book, a good pen. smooth ink. Don't use supplies that you hate //
+- Go outside or open a window
+- Don't worry about your handwriting // doesn't have to be legible
+- Don't worry about grammar or spelling or anything .. just write
+- Don't worry about having complete thoughts // jump from one to other // just follow your thoughts or stream of consciousness
+- Listen to ad-free ambient music
+- Don't let anyone interrupt your writing
+- Meditate before writing for 5 mins // center yourself / just breathing and stuff
+- if you are not a morning person, write it at night / sometime
+- don't censor yourself
+- destroy your morning pages if you are worried about privacy
+- allow room for mistakes // it is okay if you miss a day or so
+- 
