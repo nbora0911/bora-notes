@@ -1,4 +1,6 @@
 
+Walmart is a Fortune 1 company! :D 
+
 ## Sam Walton: Made In America
 - First few chapters:
   - Sam Walton was apparently the best negotiator, a great salesman, a motivator, 
@@ -52,5 +54,10 @@
   - You cannot keep doing what works one time, because everything around you is always changing. To succeed, you have to stay out in front of that change. To succeed, you have to always keep changing.
  
 If I had wanted to reach the goals I set for myself, I had to get at it, and stay at it everyday. I had to think about it all the time. 
-## The Wal-Mart Effect: How the World's Most Powerful Company Really Works - and How It's Transforming the American Economy
+## The Wal-Mart Effect: How the World's Most Powerful Company Really Works - and How It's Transforming the American Economy | 2005
+- WM has 16% of grocery market
+- 50% of americans live within a 5 miles of a WM store, < 10mins drive away. 90% of Americans live withing 15miles of a WM store.
+- Walmart has 3811 stores in US; yy international?
+- Each year 93% of American households shop at least once at WM; Each household spends ~$2k at WM each year and WM makes $75 profit each year from it.
+- 
 ## Still Broke: Walmart's Remarkable Transformation and the Limits of Socially Conscious Capitalism
