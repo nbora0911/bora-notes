@@ -12,3 +12,14 @@
 9. Finish things: Special editing = finishing a project. We only get value from finished projects, and getting a project over the finish line is the magical moment it goes from risk to leverage.
 10. What only you can: things that simply won't happen if you don't do the, are your biggest opportunities. Intersection of you what you are exceptionally good at and what you genuinely care about.
 11. Why it matters: Only viable long term bet on your career: focus on work that matters, do projects that develop you, and steer towards companies that value genuine experience.
+
+
+### Writing Engineering Strategy
+1. When and Why?: If you realize that you've rehashed the same discussion three or four times, it's time to write a strategy? When the future's too hazy to identify investments worth making, it's time to write another vision. 
+2. Write five design docs: A good design doc describes a specific problem, surveys possible solutions, and explains the selected approach's detail.
+       - Write one for a project whose capabilities will be used by numerous future projects
+       - projects that meaningfully impact users
+       - anything that takes >1month of engineers time
+       - Steps:
+             - 
+4. 
