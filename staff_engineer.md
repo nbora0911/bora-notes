@@ -17,9 +17,14 @@
 ### Writing Engineering Strategy
 1. When and Why?: If you realize that you've rehashed the same discussion three or four times, it's time to write a strategy? When the future's too hazy to identify investments worth making, it's time to write another vision. 
 2. Write five design docs: A good design doc describes a specific problem, surveys possible solutions, and explains the selected approach's detail.
+   - When to write a design doc:
        - Write one for a project whose capabilities will be used by numerous future projects
        - projects that meaningfully impact users
        - anything that takes >1month of engineers time
-       - Steps:
-             - 
+   - Steps:
+       - Start from the problem
+       - Keep the template simple
+       - Gather and review together, write alone
+       - Prefer good over perfect
+           
 4. 
