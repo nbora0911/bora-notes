@@ -10,4 +10,9 @@
 10. In a modeling pipeline, how did you many sure your model was following all the model governances laws (data, pipeline, etc)
 11. How did you do feature selection (re: alps model)? correlation matrix, rfe, etc?
 12. How did you ensure training efficiency? (poorly worded questions - they wanted to know about valdiation - OOT, Mature OOT, OOA)
-13. 
+13. ALPSish
+    a. What was the business problem?
+    b. How did you decided the target variable?
+    c. What were the business metrics to evaluate the model?
+    d. How did you decide on model design? / what factors were considered?
+    e. 
