@@ -16,3 +16,8 @@
     c. What were the business metrics to evaluate the model?
     d. How did you decide on model design? / what factors were considered?
     e. 
+
+
+
+# Uber
+- ML Coding round: what is k-means, implement k-means, how would you implement convergence, why is convergence necessary, let's say you had a class of students and everyone scored >95 points. What will happens with k-means (unstable solution)
