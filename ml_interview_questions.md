@@ -17,7 +17,9 @@
     d. How did you decide on model design? / what factors were considered?
     e. 
 
-
-
+## ZocDoc
+- Round 1 - simple sql
+- Round 2 - ML: find area/perimeter of a circle with simulation; why is cross-entropy used as a loss function, bias-variance trade off;
+- System Design - design autocomplete system; got grilled on logistic regression; AB testing - statistical power etc
 # Uber
 - ML Coding round: what is k-means, implement k-means, how would you implement convergence, why is convergence necessary, let's say you had a class of students and everyone scored >95 points. What will happens with k-means (unstable solution)
