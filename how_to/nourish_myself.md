@@ -14,7 +14,11 @@
 - Homemade Marwari dal + rice/roti (dal - toor + moong dal, tomato, garlic, tadka)
 - Chawali sabji + rice
 - Sprouts salad / sabji
-- Black Chana salad 
+- Black Chana salad
+
+## occasional
+- tomato + carrots soup | when I have too many tomatoes that need finishing up
+- cabbage + corn soup
 
 ## Rituals
 - Morning:
