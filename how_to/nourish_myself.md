@@ -23,8 +23,7 @@
   - put bean/chickpea/lentil in the Instant Pot to cook
 - Lunch:
 - Snack (4-5pm)
-  - 
 - Dinner
   - Soak a bean/whatever when you finish dinner
   - Dessert - make before dinner or waiting for stuff to cook = yogurt + strawberries
-  
+- After workout - banana/protein smoothie
