@@ -17,4 +17,6 @@
     - Why You Should Write a ‘Living Eulogy'? For today’s exercise,thank someone special.  We’re going to get vulnerable and tell an important person in our lives how we feel about them. 
     - The Importance of Work Friends: A [2022 report from Gallup](https://www.gallup.com/workplace/397058/increasing-importance-best-friend-work.aspx) showed that people who have a best friend at work are more engaged than those who do not. Reach out
     - Don't Cancel those plans - Put a social plan on the calendar and follow up. Do not cancel. Make it happen. 
-  
+5. Keep Friends:
+    - Errands hang (do errands together / admin nights
+    - Don't be afraid to invite your local friends for spontaneous gatherings.
