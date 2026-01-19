@@ -16,9 +16,10 @@
 - Sprouts salad / sabji
 - Black Chana salad
 
-## occasional
+## occasional add-ons
 - tomato + carrots soup | when I have too many tomatoes that need finishing up
 - cabbage + corn soup
+- hummus
 
 ## Rituals
 - Morning:
