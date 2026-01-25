@@ -4,9 +4,17 @@
 
 ## No prep meals
 - rice + moong dal khicadi + ghee + yogurt
+- bisbelebath - rice / toor dal / green beans, carrots, bell peppers, tamarind paste, bisbelebath mix
 - stir-fried tofu + carrots + green bell pepper + seaseme seed  / can add brocolli
 - green lentil salad 
 - Quinoa fried rice (quinoa, carrots, zucchini, ginger, soy sauce, sesame oil)
+- poliogre rice (mtr poliogre rice mix)
+- just cook toor / moong dal / masoor; eat with ghee | add spinach to dal
+- peas + carrots + sweet potatoes + trader joes veggie burger + rice
+- steamed vegetables
+- Thai curry paste / veggies + rice
+- roasted beets, sweet potatoes, // use oven for veggies
+  
 
 ## Meals on rotation 
 - Chickpea Salad (cucumber, chickpeas, red bell peppers, feta, lemon, salt + pepper, olive oil) // can add quinoa or couscous
@@ -15,11 +23,29 @@
 - Chawali sabji + rice
 - Sprouts salad / sabji
 - Black Chana salad
+- idli / dosa + sambar
+    - idli - batter rice:urad dal 1:2; day=1 // fluffy idli = smooth urad dal paste; blend beyond what you think is fine. 
+    - dosa (batter prep = soak rice:urad dal (1:2-4 based on weather) 8hrs, then blend, ferment until it rises / overnight in summer), fenugreek seeds, chana dal) **mixer is very important to make a fine paste**
+ 
 
 ## occasional add-ons
-- tomato + carrots soup | when I have too many tomatoes that need finishing up
+- when I have too many tomatoes that need finishing up
+  - tomato + carrots soup |
+  - tomatoes, peanut chutney/blend
+  - tomatoes, coriander, chilli, garlic, just blend /no cooking
 - cabbage + corn soup
 - hummus
+- tofu + seasame oil + furikake + soy sauce
+- chat - bhel without murmura - chickpeas, tomato, cucumber, tamarind chatni, etc.,  // bhel without murmura
+
+
+## new
+- sweet potato brownies = pressure cook sweet potato; then peanut butter, chocolate chips -> bake
+
+## advanced
+- stuffed parathas with paneer/potatoes
+- palak paneer
+  
 
 ## Rituals
 - Morning:
@@ -32,3 +58,4 @@
   - Soak a bean/whatever when you finish dinner
   - Dessert - make before dinner or waiting for stuff to cook = yogurt + strawberries
 - After workout - banana/protein smoothie
+- weekly meal prep
